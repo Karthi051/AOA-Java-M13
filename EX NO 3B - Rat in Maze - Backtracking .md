@@ -29,8 +29,7 @@ Explanation: One possible way is : left -> down -> left -> down -> right -> down
 ## Program:
 ```
 /*
-Developed by: Abinaya A
-Register Number: 212223040003
+
 */
 public class Main {
 

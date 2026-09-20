@@ -23,10 +23,7 @@ For example:
 
 ## Program:
 ```
-/*
-Developed by: Abinaya A
-Register Number: 212223040003
-*/
+
 import java.util.*;
 
 public class Solution {
